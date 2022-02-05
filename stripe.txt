@@ -1,0 +1,8 @@
+id product
+  price_1KO9hcDxlJ9TeKbcKAL7t7gq
+
+chave secreta 
+  sk_test_51KNh1sDxlJ9TeKbcNYZiQuwF804l2hgJ7tepMjiKxJyI7e77jrkBxln1WOOHv8qmGxqPcnleK54bx3zbTZQuCwBA00g1lKZcmG
+
+chave publica 
+  pk_test_51KNh1sDxlJ9TeKbc6I4WQvfjeb57qbA8edJQ6SaDyP74gqWT0EQHeo28E4blLy9v8a7wX7Ev9Zt1WwTR5VaRdcMX00UJikvPJi
